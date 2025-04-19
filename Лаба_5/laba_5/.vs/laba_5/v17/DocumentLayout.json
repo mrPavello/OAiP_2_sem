@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0417C96D-162C-4609-8371-8B4FC174D3D5}|laba_5.2\\laba_5.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5.2\\laba_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0417C96D-162C-4609-8371-8B4FC174D3D5}|laba_5.2\\laba_5.2.vcxproj|solutionrelative:laba_5.2\\laba_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55232A4-082B-43F9-B8DD-F3A20DF5C312}|laba_5\\laba_5.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5\\laba_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B55232A4-082B-43F9-B8DD-F3A20DF5C312}|laba_5\\laba_5.vcxproj|solutionrelative:laba_5\\laba_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba_5_2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5.2\\laba_5_2.cpp",
+              "RelativeDocumentMoniker": "laba_5.2\\laba_5_2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5.2\\laba_5_2.cpp",
+              "RelativeToolTip": "laba_5.2\\laba_5_2.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T20:45:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "laba_5.1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5\\laba_5.1.cpp",
+              "RelativeDocumentMoniker": "laba_5\\laba_5.1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 5\\laba_5\\laba_5\\laba_5.1.cpp",
+              "RelativeToolTip": "laba_5\\laba_5.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T09:27:41.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

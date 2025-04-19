@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99407AF2-6AD5-4444-8D3D-14412665E0B3}|..\\laba_1.2\\laba_1.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.2\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B1330E-763E-48B8-A59D-2B66D88BC7BE}|..\\dop_laba_1.8.2\\dop_laba_1.8.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.2\\task8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFD2D5-8663-4163-90E7-7091AA1E3EDB}|laba_1\\laba_1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.1\\laba_1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85DFD2D5-8663-4163-90E7-7091AA1E3EDB}|laba_1\\laba_1.vcxproj|solutionrelative:laba_1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D613C5-B643-462B-A500-E204BC8B07B4}|..\\dop_laba_1.1.2\\dop_laba_1.1.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.2\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A70D2A-00BB-45D3-9965-636C68B5E33E}|..\\dop_laba_1.8.1\\dop_laba_1.8.1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.1\\task8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25D1A35-E1CB-4A2B-B767-99F52E3AF062}|..\\dop_laba_1.4.1\\dop_laba_1.4.1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.4.1\\task4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F417CDD-2DF2-408F-9185-9906C152007E}|..\\dop_lab_1.4.2\\dop_lab_1.4.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_lab_1.4.2\\task4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB6D350-C0F6-4D0E-B520-B53D2BBF7155}|..\\dop_laba_1.1.1\\dop_laba_1.1.1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task8.2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.2\\task8.2.cpp",
+              "RelativeDocumentMoniker": "..\\dop_laba_1.8.2\\task8.2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.2\\task8.2.cpp",
+              "RelativeToolTip": "..\\dop_laba_1.8.2\\task8.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T14:31:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task8.1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.1\\task8.1.cpp",
+              "RelativeDocumentMoniker": "..\\dop_laba_1.8.1\\task8.1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.8.1\\task8.1.cpp",
+              "RelativeToolTip": "..\\dop_laba_1.8.1\\task8.1.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T14:29:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task4.2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_lab_1.4.2\\task4.2.cpp",
+              "RelativeDocumentMoniker": "..\\dop_lab_1.4.2\\task4.2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_lab_1.4.2\\task4.2.cpp",
+              "RelativeToolTip": "..\\dop_lab_1.4.2\\task4.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T14:25:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task4.1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.4.1\\task4.1.cpp",
+              "RelativeDocumentMoniker": "..\\dop_laba_1.4.1\\task4.1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.4.1\\task4.1.cpp",
+              "RelativeToolTip": "..\\dop_laba_1.4.1\\task4.1.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T14:22:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.2\\task2.cpp",
+              "RelativeDocumentMoniker": "..\\dop_laba_1.1.2\\task2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.2\\task2.cpp",
+              "RelativeToolTip": "..\\dop_laba_1.1.2\\task2.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T22:54:50.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.1\\task1.cpp",
+              "RelativeDocumentMoniker": "..\\dop_laba_1.1.1\\task1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\dop_laba_1.1.1\\task1.cpp",
+              "RelativeToolTip": "..\\dop_laba_1.1.1\\task1.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T22:50:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.2\\task2.cpp",
+              "RelativeDocumentMoniker": "..\\laba_1.2\\task2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.2\\task2.cpp",
+              "RelativeToolTip": "..\\laba_1.2\\task2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-13T21:30:25.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.1\\laba_1\\task1.cpp",
+              "RelativeDocumentMoniker": "laba_1\\task1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u0430 1\\laba_1.1\\laba_1\\task1.cpp",
+              "RelativeToolTip": "laba_1\\task1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-13T21:28:32.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
